@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\bin\Debug\netcoreapp2.1\web_book_report_dot_net_core.deps.json
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\bin\Debug\netcoreapp2.1\web_book_report_dot_net_core.runtimeconfig.json
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\bin\Debug\netcoreapp2.1\web_book_report_dot_net_core.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\bin\Debug\netcoreapp2.1\web_book_report_dot_net_core.dll
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\bin\Debug\netcoreapp2.1\web_book_report_dot_net_core.pdb
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.RazorAssemblyInfo.cache
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.RazorAssemblyInfo.cs
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.AssemblyInfo.cs
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.dll
+C:\Users\lucas\source\repos\web-site-book-reports\web-book-report-dot-net-core\obj\Debug\netcoreapp2.1\web_book_report_dot_net_core.pdb
